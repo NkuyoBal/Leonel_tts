@@ -1,0 +1,6 @@
+{
+  "name": "Clonador de Voz",
+  "description": "Clonación y síntesis de voz mediante grabaciones de audio y modelos de IA generativa.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
